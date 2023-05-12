@@ -1,0 +1,20 @@
+﻿  Source.cpp
+C:\Users\695599\source\repos\shamrock functions\shamrock functions\Source.cpp(44,24): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\695599\source\repos\shamrock functions\shamrock functions\Source.cpp(44,21): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\695599\source\repos\shamrock functions\shamrock functions\Source.cpp(49,29): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\695599\source\repos\shamrock functions\shamrock functions\Source.cpp(49,23): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\695599\source\repos\shamrock functions\shamrock functions\Source.cpp(54,31): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\695599\source\repos\shamrock functions\shamrock functions\Source.cpp(54,23): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\695599\source\repos\shamrock functions\shamrock functions\Source.cpp(57,27): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\695599\source\repos\shamrock functions\shamrock functions\Source.cpp(57,21): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\695599\source\repos\shamrock functions\shamrock functions\Source.cpp(68,24): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\695599\source\repos\shamrock functions\shamrock functions\Source.cpp(68,21): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\695599\source\repos\shamrock functions\shamrock functions\Source.cpp(73,29): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\695599\source\repos\shamrock functions\shamrock functions\Source.cpp(73,22): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\695599\source\repos\shamrock functions\shamrock functions\Source.cpp(78,28): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\695599\source\repos\shamrock functions\shamrock functions\Source.cpp(78,22): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\695599\source\repos\shamrock functions\shamrock functions\Source.cpp(84,28): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\695599\source\repos\shamrock functions\shamrock functions\Source.cpp(84,22): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\695599\source\repos\shamrock functions\shamrock functions\Source.cpp(88,28): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\695599\source\repos\shamrock functions\shamrock functions\Source.cpp(88,21): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  shamrock functions.vcxproj -> C:\Users\695599\source\repos\shamrock functions\x64\Debug\shamrock functions.exe
